@@ -1,4 +1,4 @@
-Mastermind (Game)
+Mastermind (Unity3D In-Editor Game)
 ======
 What is it?
 ------------
